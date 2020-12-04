@@ -10,6 +10,7 @@ import EntypoIcons from 'react-native-vector-icons/Entypo';
 import EvilIconsIcons from 'react-native-vector-icons/EvilIcons';
 import FeatherIcons from 'react-native-vector-icons/Feather';
 import FontAwesomeIcons from 'react-native-vector-icons/FontAwesome';
+import FontAwesome5Icons from 'react-native-vector-icons/FontAwesome5';
 import FoundationIcons from 'react-native-vector-icons/Foundation';
 import IoniconsIcons from 'react-native-vector-icons/Ionicons';
 import MaterialIconsIcons from 'react-native-vector-icons/MaterialIcons';
@@ -17,12 +18,15 @@ import MaterialCommunityIconsIcons from 'react-native-vector-icons/MaterialCommu
 import OcticonsIcons from 'react-native-vector-icons/Octicons';
 import ZocialIcons from 'react-native-vector-icons/Zocial';
 import SimpleLineIconsIcons from 'react-native-vector-icons/SimpleLineIcons';
+import FontistoIcons from 'react-native-vector-icons/Fontisto';
+import AntDesignIcons from 'react-native-vector-icons/AntDesign';
 
 const iconSets = {
   Entypo: EntypoIcons,
   EvilIcons: EvilIconsIcons,
   Feather: FeatherIcons,
   FontAwesome: FontAwesomeIcons,
+  FontAwesome5: FontAwesome5Icons,
   Foundation: FoundationIcons,
   Ionicons: IoniconsIcons,
   MaterialIcons: MaterialIconsIcons,
@@ -30,6 +34,8 @@ const iconSets = {
   Octicons: OcticonsIcons,
   Zocial: ZocialIcons,
   SimpleLineIcons: SimpleLineIconsIcons,
+  Fontisto: FontistoIcons,
+  AntDesign: AntDesignIcons,
 };
 
 const propTypes = {
